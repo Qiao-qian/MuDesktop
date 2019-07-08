@@ -7,7 +7,7 @@ MuDesktop
 想法来自Wallpaper Engine
 
 
-支持的平台
+支持平台
 ---------
 * Windows 10
 * Windows 8
