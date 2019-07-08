@@ -1,16 +1,14 @@
-# MuDesktop
-简单创意的动态壁纸 高效低占用的定位
+MuDesktop
+=========
 
-项目结构
-- Mumuli
-  1. MuDesktop
-  2. MuPlayer
->基于 WKE Chrome MiniBlink Aplyer 
+自绘桌面框架，用你的代码绘制桌面，支持插件开发
+想法来自Wallpaper Engine
+支持的平台
+---------
+* Windows 10
+* Windows 8
+* Windows 7
+* Windows XP
 
-https://github.com/NoisyWinds/Wallpaper  
-https://github.com/xfgryujk/WinCustomDesktop
-***
-OWNER:乔千
-***
 [加开发群](https://jq.qq.com/?_wv=1027&k=5SzdQiB "如果你想加入我们就赶快鸭")  
 [官方网站](http://www.mumuli.cn "简单而不失性能")  
