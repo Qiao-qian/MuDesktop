@@ -14,5 +14,7 @@ MuDesktop
 * Windows 7
 * Windows XP
 
+相关链接
+---------
 [加开发群](https://jq.qq.com/?_wv=1027&k=5SzdQiB "如果你想加入我们就赶快鸭")  
 [官方网站](http://www.mumuli.cn "简单而不失性能")  
